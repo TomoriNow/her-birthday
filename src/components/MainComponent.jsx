@@ -4,7 +4,7 @@ export default function MainComponent() {
             <div className="one">
                 <h1 className="one">
                     <span data-node-name="greeting">Hey</span>
-                    <span data-node-name="name">Lydia</span>
+                    <span data-node-name="name">Aulia</span>
                 </h1>
                 <p className="two" data-node-name="greetingText">
                     I really like your name btw!
@@ -49,8 +49,8 @@ export default function MainComponent() {
                 </p>
             </div>
             <div className="six">
-                <img src="img/miraz.jpeg" alt="" className="lydia-dp" data-node-name="imagePath" />
-                <img src="img/hat.svg" alt="" className="hat" />
+                <img src="img/aulia.jpg" alt="" className="lydia-dp" data-node-name="imagePath" />
+
                 <div className="wish">
                     <h3 className="wish-hbd" data-node-name="wishHeading">
                         Happy Birthday!
@@ -60,39 +60,39 @@ export default function MainComponent() {
             </div>
             <div className="seven">
                 <div className="baloons">
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon2.svg" alt="" />
-                    <img src="img/ballon1.svg" alt="" />
-                    <img src="img/ballon3.svg" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/roses.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/vanillaice.png" alt="" />
+                    <img src="img/tulips.png" alt="" />
+                    <img src="img/roses.png" alt="" />
                 </div>
             </div>
             <div className="eight">

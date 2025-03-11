@@ -1,4 +1,3 @@
-import Footer from '@/components/Footer';
 import MainComponent from '@/components/MainComponent';
 import Head from 'next/head';
 import Script from 'next/script';
@@ -7,13 +6,13 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Happy Birthday!!! Miraz:)</title>
+                <title>Happy Birthday Aulia!!! :)</title>
 
                 <link
                     href="https://fonts.googleapis.com/css?family=Work+Sans:300,400"
                     rel="stylesheet"
                 />
-                <link rel="icon" href="favicon.ico" />
+                <link rel="icon" href="heart_favicon.ico" />
             </Head>
 
             <Script
@@ -23,7 +22,6 @@ export default function Home() {
             <Script src="main.js" strategy="lazyOnload" />
 
             <MainComponent />
-            <Footer />
         </>
     );
 }
